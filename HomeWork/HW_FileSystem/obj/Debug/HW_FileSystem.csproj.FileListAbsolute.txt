@@ -1,0 +1,5 @@
+C:\Users\БекмухамбетА\Downloads\FileSystem\HW_FileSystem\bin\Debug\HW_FileSystem.exe.config
+C:\Users\БекмухамбетА\Downloads\FileSystem\HW_FileSystem\bin\Debug\HW_FileSystem.exe
+C:\Users\БекмухамбетА\Downloads\FileSystem\HW_FileSystem\bin\Debug\HW_FileSystem.pdb
+C:\Users\БекмухамбетА\Downloads\FileSystem\HW_FileSystem\obj\Debug\HW_FileSystem.exe
+C:\Users\БекмухамбетА\Downloads\FileSystem\HW_FileSystem\obj\Debug\HW_FileSystem.pdb

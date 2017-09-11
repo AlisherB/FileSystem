@@ -1,0 +1,5 @@
+C:\Users\Alisher\OneDrive\Documents\Академия Шаг\C#\PracticalTasks\FileSystem\Task2\bin\Debug\Task2.exe.config
+C:\Users\Alisher\OneDrive\Documents\Академия Шаг\C#\PracticalTasks\FileSystem\Task2\bin\Debug\Task2.exe
+C:\Users\Alisher\OneDrive\Documents\Академия Шаг\C#\PracticalTasks\FileSystem\Task2\bin\Debug\Task2.pdb
+C:\Users\Alisher\OneDrive\Documents\Академия Шаг\C#\PracticalTasks\FileSystem\Task2\obj\Debug\Task2.exe
+C:\Users\Alisher\OneDrive\Documents\Академия Шаг\C#\PracticalTasks\FileSystem\Task2\obj\Debug\Task2.pdb
